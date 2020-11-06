@@ -1,3 +1,3 @@
 console.log("khởi tạo dự án")
 
-console.log("code of dev Hieu ne")
+console.log("code of dev Hieu ne!!Thêm mới")
