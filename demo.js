@@ -10,4 +10,6 @@ console.log("test mer !!!");
 console.log("chuyển qua nhánh Phú")
 console.log("chuyển qua nhánh Phú")
 
+console.log("abcd")
+console.log("abc121d")
 console.log("abcdesdddaaaaaaa")
